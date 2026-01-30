@@ -8,8 +8,11 @@ my name is kamasuto, i'm a little interested in projects like some **android pro
 google pixel 6 | 8/128, main
 google pixel 3 | 4/64, the second, serves as a test machine
 ```
-
 ### pc
 ```
 kmst@pc | sudo rm -rf /*
+```
+### active projects
+```
+silikon - my first program that is somehow related to android, and not just some simple and stupid program, but a pretty good program that in theory can compete with dev-check
 ```
