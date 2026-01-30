@@ -14,5 +14,7 @@ kmst@pc | sudo rm -rf /*
 ```
 ### active projects
 ```
-silikon - my first program that is somehow related to android, and not just some simple and stupid program, but a pretty good program that in theory can compete with dev-check
+silikon - my first program that is somehow related to android,
+and not just some simple and stupid program, but a pretty good program that in
+theory can compete with dev-check
 ```
