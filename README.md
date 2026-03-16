@@ -10,9 +10,3 @@ google pixel 3 | 4/64, the second, serves as a test machine
 ```
 kmst@pc | sudo rm -rf /*
 ```
-### active projects
-```
-silikon - my first program that is somehow related to android,
-and not just some simple and stupid program, but a pretty good program that in
-theory can compete with dev-check
-```
